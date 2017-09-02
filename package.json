@@ -1,0 +1,20 @@
+{
+  "name": "web_vue",
+  "version": "1.0.0",
+  "description": "使用webpack自己搭建vue项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renjing940419/web_vue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renjing940419/web_vue/issues"
+  },
+  "homepage": "https://github.com/renjing940419/web_vue"
+}
